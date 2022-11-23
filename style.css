@@ -111,16 +111,13 @@ ul {
   align-items: center;
 }
 
-h1 {
-}
-
 @media only screen and (min-width: 90rem) {
   section {
     max-width: 1110px;
     margin: 5rem auto 0rem auto;
   }
 
-  section > h1 {
+  h1 {
     max-width: 500px;
     font-size: 2.25rem;
   }
